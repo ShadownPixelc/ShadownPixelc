@@ -154,16 +154,6 @@ HTML • CSS • JavaScript • Figma
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShadownPixelc&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
