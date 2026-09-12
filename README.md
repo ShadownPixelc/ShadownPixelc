@@ -146,7 +146,7 @@ HTML • CSS • JavaScript • Figma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShadownPixelc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShadownPixelc&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadownPixelc&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180"/>
 
@@ -158,21 +158,17 @@ HTML • CSS • JavaScript • Figma
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ShadownPixelc&hide_border=true&theme=transparent&mode=weekly" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=ShadownPixelc&hide_border=true&theme=transparent" width="80%" alt="GitHub Contribution Streak"/>
 
 </div>
-
----
 
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadownPixelc&theme=github-compact&hide_border=true&area=true&custom_title=ShadownPixelc%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadownPixelc&theme=github-compact&hide_border=true&area=true&custom_title=ShadownPixelc%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
-
----
 
 # 🐍 My Contribution Snake
 
