@@ -36,10 +36,6 @@ I'm a **Data Science student** who enjoys exploring the intersection of **Artifi
 
 I love taking an idea, experimenting with it, breaking things along the way, and turning it into something useful.
 
-```python
-
-```
-
 ### 🔭 Currently Working On
 
 **RAG-Based Agentic GitHub Onboarding Assistant & Graph Visualizer**
