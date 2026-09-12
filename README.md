@@ -1,29 +1,40 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=E%20Chamanasree&fontSize=50&fontAlignY=35&animation=fadeIn" width="100%"/>
+
 # 👋 Hi, I'm E Chamanasree
 
-### `Data Science Student` • `AI Explorer` • `RAG Builder` • `Analytics Enthusiast`
+### `Data Science Student` • `AI Explorer` • `RAG Builder` • `Data Analytics Enthusiast`
 
 <p>
-  <a href="https://github.com/ShadonPixelc">
-    <img src="https://img.shields.io/github/followers/ShadonPixelc?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  <a href="https://github.com/ShadownPixelc">
+    <img src="https://img.shields.io/badge/GitHub-ShadownPixelc-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://github.com/ShadonPixelc?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ShadonPixelc?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  <a href="https://linkedin.com/in/e-chamanasree">
+    <img src="https://img.shields.io/badge/LinkedIn-E%20Chamanasree-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ShadonPixelc&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="mailto:echamanasree@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<p>
-  <em>Building things I wish existed.</em><br>
-  <em>Learning by breaking things, fixing them, and occasionally making them beautiful.</em>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ShadownPixelc&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+<br>
+
+> 💡 **Experimenting with RAG, AI & Data Analytics**
+>
+> *"Curiosity turns into ideas. Ideas turn into projects."*
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
+
+I'm a **Data Science student** who enjoys exploring the intersection of **Artificial Intelligence, RAG systems, Machine Learning and Data Analytics**.
+
+I love taking an idea, experimenting with it, breaking things along the way, and turning it into something useful.
 
 ```python
 class Chamanasree:
@@ -32,7 +43,8 @@ class Chamanasree:
 
     interests = [
         "Artificial Intelligence",
-        "Retrieval-Augmented Generation",
+        "RAG Systems",
+        "AI Agents",
         "Data Analytics",
         "Machine Learning",
         "Developer Tools"
@@ -45,64 +57,61 @@ class Chamanasree:
     motto = "Learn → Build → Break → Fix → Repeat 🚀"
 ```
 
-* 🔭 Currently working on **RAG-Based Agentic GitHub Onboarding Assistant & Graph Visualizer**
-* 🤖 Exploring **RAG, AI Agents, LLMs & Embeddings**
-* 📊 Interested in **Data Analytics & Machine Learning**
-* 🧠 I enjoy understanding **how things work under the hood**
-* 🎨 I like combining **technology + creativity + good UI**
-* 📫 Reach me at **[echamanasree@gmail.com](mailto:echamanasree@gmail.com)**
+### 🔭 Currently Working On
+
+**RAG-Based Agentic GitHub Onboarding Assistant & Graph Visualizer**
+
+A project focused on helping developers understand unfamiliar GitHub repositories through **RAG, AI agents, embeddings and repository visualization**.
+
+### 🌱 Currently Exploring
+
+`RAG` `LLMs` `AI Agents` `Embeddings` `Vector Search` `Machine Learning` `Data Analytics`
+
+### ⚡ Fun Fact
+
+**I'm always curious about how things work under the hood.**
 
 ---
 
-## 🚀 What I'm Building
-
-### 🤖 RAG-Based Agentic GitHub Onboarding Assistant
-
-> An intelligent onboarding system designed to help developers understand unfamiliar GitHub repositories faster.
-
-**Exploring:**
-
-`RAG` • `LLMs` • `Embeddings` • `Vector Search` • `Agentic AI` • `Repository Graphs`
-
-The goal is to turn a complex repository into an **interactive, understandable developer experience**.
-
----
-
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🤖 GitHub Onboarding Assistant
+<h3>🤖 GitHub Onboarding Assistant</h3>
 
-RAG-based agentic system that helps developers understand GitHub repositories, architecture, code relationships and project structure.
+<p>
+A RAG-based agentic assistant designed to help developers understand unfamiliar GitHub repositories, their structure, relationships and architecture.
+</p>
 
-**Tech:**
-`Python` `RAG` `LLMs` `Embeddings` `GitHub API`
+<p>
+<b>Tech:</b><br>
+Python • RAG • LLMs • Embeddings • GitHub API
+</p>
 
-<br>
-
-<a href="https://github.com/ShadonPixelc">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/ShadownPixelc?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Data Analytics Projects
+<h3>📊 Data Analytics Projects</h3>
 
-Exploring datasets, discovering patterns and transforming raw data into meaningful insights through visualization and machine learning.
+<p>
+Exploring datasets, discovering patterns and transforming raw data into meaningful insights through analytics and visualization.
+</p>
 
-**Tech:**
-`Python` `Pandas` `Scikit-Learn` `Seaborn`
+<p>
+<b>Tech:</b><br>
+Python • Pandas • Scikit-Learn • Seaborn
+</p>
 
-<br>
-
-<a href="https://github.com/ShadonPixelc?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/ShadownPixelc?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -113,30 +122,44 @@ Exploring datasets, discovering patterns and transforming raw data into meaningf
 
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning Experiments
+<h3>🧠 Machine Learning Experiments</h3>
 
-Hands-on experiments with ML algorithms, preprocessing, feature engineering and model evaluation.
+<p>
+Hands-on experiments with machine learning algorithms, preprocessing, feature engineering and model evaluation.
+</p>
 
-**Tech:**
-`Python` `Scikit-Learn` `TensorFlow` `PyTorch`
+<p>
+<b>Tech:</b><br>
+Python • Scikit-Learn • TensorFlow • PyTorch
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎨 Creative Tech Projects
+<h3>🎨 Creative Tech Projects</h3>
 
-Projects where I experiment with interfaces, visualizations, AI concepts and creative ways of presenting technical ideas.
+<p>
+Experimenting with interfaces, visualizations, AI concepts and creative ways of presenting technical ideas.
+</p>
 
-**Tech:**
-`HTML` `CSS` `JavaScript` `Figma`
+<p>
+<b>Tech:</b><br>
+HTML • CSS • JavaScript • Figma
+</p>
 
 </td>
 
 </tr>
 </table>
 
-> 💡 **More projects →** [Explore all my repositories](https://github.com/ShadonPixelc?tab=repositories)
+<div align="center">
+
+<a href="https://github.com/ShadownPixelc?tab=repositories">
+<img src="https://img.shields.io/badge/✨%20View%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
@@ -144,9 +167,19 @@ Projects where I experiment with interfaces, visualizations, AI concepts and cre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShadonPixelc&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShadownPixelc&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadonPixelc&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadownPixelc&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShadownPixelc&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
 
 </div>
 
@@ -156,7 +189,7 @@ Projects where I experiment with interfaces, visualizations, AI concepts and cre
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ShadonPixelc&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ShadownPixelc&hide_border=true&theme=transparent&mode=weekly" width="80%"/>
 
 </div>
 
@@ -166,108 +199,147 @@ Projects where I experiment with interfaces, visualizations, AI concepts and cre
 
 <div align="center">
 
-<a href="https://github.com/ShadonPixelc">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadonPixelc&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadownPixelc&theme=github-compact&hide_border=true&area=true&custom_title=ShadownPixelc%20Contribution%20Graph" width="95%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 My Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShadonPixelc/ShadonPixelc/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/ShadownPixelc/ShadownPixelc/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%"/>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Languages & Tools
 
-### 👩‍💻 Programming
+### 👩‍💻 Programming Languages
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+<p align="left">
 
-<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 </p>
 
 ### 🌐 Web Development
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,flask,django" />
+
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
 </p>
 
-### 🔧 Tools
+### 🔧 Development Tools
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</p>
+
+### 📊 Data Visualization
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 </p>
 
 ---
 
-# 🧠 Currently Exploring
-
-```text
-RAG Systems                 ███████████████████░  95%
-AI Agents                   █████████████████░░░  85%
-Data Analytics              ████████████████░░░░  80%
-Machine Learning            ███████████████░░░░░  75%
-LLM Applications             ████████████████░░░░  80%
-System Design               ████████████░░░░░░░░  60%
-```
-
----
-
-# 📌 GitHub Highlights
+# 🧠 What I'm Learning
 
 <div align="center">
 
-|      📦 Repositories     |   ⭐ Stars  | 🔥 Contributions |     🧠 Focus    |
-| :----------------------: | :--------: | :--------------: | :-------------: |
-| Building & experimenting | Growing 🚀 |  Always learning | AI + RAG + Data |
+```text
+RAG Systems             ███████████████████░  95%
+AI Agents               █████████████████░░░  85%
+LLM Applications        ████████████████░░░░  80%
+Data Analytics          ████████████████░░░░  80%
+Machine Learning        ███████████████░░░░░  75%
+System Design           ████████████░░░░░░░░  60%
+```
 
 </div>
 
 ---
 
-# 📅 My GitHub Journey
+# 📌 My Developer Journey
+
+<div align="center">
 
 ```text
-        Learn
-          ↓
-      Experiment
-          ↓
-        Build
-          ↓
-       Break 😭
-          ↓
-        Debug
-          ↓
-        Improve
-          ↓
-        Repeat 🚀
+                    💡 IDEA
+                      │
+                      ▼
+                 🔍 EXPLORE
+                      │
+                      ▼
+                 🧪 EXPERIMENT
+                      │
+                      ▼
+                  💻 BUILD
+                      │
+                      ▼
+                  🐛 BREAK
+                      │
+                      ▼
+                  🔧 DEBUG
+                      │
+                      ▼
+                 🚀 IMPROVE
+                      │
+                      ▼
+                  ✨ REPEAT
 ```
+
+</div>
+
+---
+
+# 📦 Repository & Contribution Overview
+
+<div align="center">
+
+<a href="https://github.com/ShadownPixelc?tab=repositories">
+<img src="https://img.shields.io/badge/📦%20Repositories-Explore-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/ShadownPixelc?tab=stars">
+<img src="https://img.shields.io/github/stars/ShadownPixelc?style=for-the-badge&logo=github&label=Stars%20Received"/>
+</a>
+
+<a href="https://github.com/ShadownPixelc?tab=followers">
+<img src="https://img.shields.io/github/followers/ShadownPixelc?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+</div>
 
 ---
 
@@ -275,16 +347,16 @@ System Design               ████████████░░░░░�
 
 <div align="center">
 
-<a href="https://github.com/ShadonPixelc">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ShadownPixelc">
+<img src="https://img.shields.io/badge/GitHub-ShadownPixelc-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/e-chamanasree">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-E%20Chamanasree-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:echamanasree@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-echamanasree%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -293,10 +365,14 @@ System Design               ████████████░░░░░�
 
 <div align="center">
 
-### 💭 "Curiosity turns into ideas. Ideas turn into projects."
+### 💭 "Learn something. Build something. Share something."
 
-**Thanks for visiting my profile! ⭐**
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+⭐ **If you find something interesting in my repositories, feel free to star it!**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
