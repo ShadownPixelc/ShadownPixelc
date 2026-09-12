@@ -1,26 +1,302 @@
-<h1 align="center">Hi 👋, I'm E chamanasree</h1>
-<h3 align="center">Experimenting with RAG, AI & Data Analytics</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadownpixelc&label=Profile%20views&color=0e75b6&style=flat" alt="shadownpixelc" /> </p>
+# 👋 Hi, I'm E Chamanasree
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadownpixelc" alt="shadownpixelc" /></a> </p>
+### `Data Science Student` • `AI Explorer` • `RAG Builder` • `Analytics Enthusiast`
 
-- 🔭 I’m currently working on **RAG-Based Agentic GitHub Onboarding Assistant & Graph Visualizer**
-
-- 📫 How to reach me **echamanasree@gmail.com**
-
-- ⚡ Fun fact **I’m always curious about how things work under the hood.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/e-chamanasree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e-chamanasree" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/ShadonPixelc">
+    <img src="https://img.shields.io/github/followers/ShadonPixelc?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/ShadonPixelc?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ShadonPixelc?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ShadonPixelc&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <em>Building things I wish existed.</em><br>
+  <em>Learning by breaking things, fixing them, and occasionally making them beautiful.</em>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadownpixelc&show_icons=true&locale=en&layout=compact" alt="shadownpixelc" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadownpixelc&show_icons=true&locale=en" alt="shadownpixelc" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadownpixelc&" alt="shadownpixelc" /></p>
+## 🧑‍💻 About Me
+
+```python
+class Chamanasree:
+
+    role = "Data Science Student"
+
+    interests = [
+        "Artificial Intelligence",
+        "Retrieval-Augmented Generation",
+        "Data Analytics",
+        "Machine Learning",
+        "Developer Tools"
+    ]
+
+    currently_building = "RAG-Based Agentic GitHub Onboarding Assistant"
+
+    fun_fact = "I'm always curious about how things work under the hood."
+
+    motto = "Learn → Build → Break → Fix → Repeat 🚀"
+```
+
+* 🔭 Currently working on **RAG-Based Agentic GitHub Onboarding Assistant & Graph Visualizer**
+* 🤖 Exploring **RAG, AI Agents, LLMs & Embeddings**
+* 📊 Interested in **Data Analytics & Machine Learning**
+* 🧠 I enjoy understanding **how things work under the hood**
+* 🎨 I like combining **technology + creativity + good UI**
+* 📫 Reach me at **[echamanasree@gmail.com](mailto:echamanasree@gmail.com)**
+
+---
+
+## 🚀 What I'm Building
+
+### 🤖 RAG-Based Agentic GitHub Onboarding Assistant
+
+> An intelligent onboarding system designed to help developers understand unfamiliar GitHub repositories faster.
+
+**Exploring:**
+
+`RAG` • `LLMs` • `Embeddings` • `Vector Search` • `Agentic AI` • `Repository Graphs`
+
+The goal is to turn a complex repository into an **interactive, understandable developer experience**.
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 GitHub Onboarding Assistant
+
+RAG-based agentic system that helps developers understand GitHub repositories, architecture, code relationships and project structure.
+
+**Tech:**
+`Python` `RAG` `LLMs` `Embeddings` `GitHub API`
+
+<br>
+
+<a href="https://github.com/ShadonPixelc">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data Analytics Projects
+
+Exploring datasets, discovering patterns and transforming raw data into meaningful insights through visualization and machine learning.
+
+**Tech:**
+`Python` `Pandas` `Scikit-Learn` `Seaborn`
+
+<br>
+
+<a href="https://github.com/ShadonPixelc?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning Experiments
+
+Hands-on experiments with ML algorithms, preprocessing, feature engineering and model evaluation.
+
+**Tech:**
+`Python` `Scikit-Learn` `TensorFlow` `PyTorch`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Creative Tech Projects
+
+Projects where I experiment with interfaces, visualizations, AI concepts and creative ways of presenting technical ideas.
+
+**Tech:**
+`HTML` `CSS` `JavaScript` `Figma`
+
+</td>
+
+</tr>
+</table>
+
+> 💡 **More projects →** [Explore all my repositories](https://github.com/ShadonPixelc?tab=repositories)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShadonPixelc&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadonPixelc&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ShadonPixelc&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/ShadonPixelc">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadonPixelc&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShadonPixelc/ShadonPixelc/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+### 👩‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,flask,django" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 🧠 Currently Exploring
+
+```text
+RAG Systems                 ███████████████████░  95%
+AI Agents                   █████████████████░░░  85%
+Data Analytics              ████████████████░░░░  80%
+Machine Learning            ███████████████░░░░░  75%
+LLM Applications             ████████████████░░░░  80%
+System Design               ████████████░░░░░░░░  60%
+```
+
+---
+
+# 📌 GitHub Highlights
+
+<div align="center">
+
+|      📦 Repositories     |   ⭐ Stars  | 🔥 Contributions |     🧠 Focus    |
+| :----------------------: | :--------: | :--------------: | :-------------: |
+| Building & experimenting | Growing 🚀 |  Always learning | AI + RAG + Data |
+
+</div>
+
+---
+
+# 📅 My GitHub Journey
+
+```text
+        Learn
+          ↓
+      Experiment
+          ↓
+        Build
+          ↓
+       Break 😭
+          ↓
+        Debug
+          ↓
+        Improve
+          ↓
+        Repeat 🚀
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ShadonPixelc">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/e-chamanasree">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:echamanasree@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Curiosity turns into ideas. Ideas turn into projects."
+
+**Thanks for visiting my profile! ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
