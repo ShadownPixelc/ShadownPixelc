@@ -37,24 +37,7 @@ I'm a **Data Science student** who enjoys exploring the intersection of **Artifi
 I love taking an idea, experimenting with it, breaking things along the way, and turning it into something useful.
 
 ```python
-class Chamanasree:
 
-    role = "Data Science Student"
-
-    interests = [
-        "Artificial Intelligence",
-        "RAG Systems",
-        "AI Agents",
-        "Data Analytics",
-        "Machine Learning",
-        "Developer Tools"
-    ]
-
-    currently_building = "RAG-Based Agentic GitHub Onboarding Assistant"
-
-    fun_fact = "I'm always curious about how things work under the hood."
-
-    motto = "Learn → Build → Break → Fix → Repeat 🚀"
 ```
 
 ### 🔭 Currently Working On
